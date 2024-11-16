@@ -8,6 +8,7 @@ A Flutter application that provides users with real-time weather information and
 - View 4-day weather forecasts and expandable up to 14 days
 - Register and unsubscribe to receive daily weather forecast information via email address. Confirmation email sent
 - Detailed weather data including temperature, humidity, wind speed, and more
+- Responsive design ( desktops, tablets & mobile phones).
 # Installation
 To run the project locally, follow these steps:
 ## 1. Clone the Repository
