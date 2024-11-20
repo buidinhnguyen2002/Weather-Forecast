@@ -23,7 +23,7 @@ Execute the following command to launch the application:
 ## 2. Run via IDE
 Open the project in an IDE like Visual Studio Code or Android Studio, and select Run to start the application.
 # Demo deploy firebase hosting
-   https://weather-app-40c85.web.app/
+   [https://weather-app-40c85.web.app/](https://weather-forecast-ab97f.web.app/)
 # References
   ## Flutter Documentation
   ## Dart Documentation
